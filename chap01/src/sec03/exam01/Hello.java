@@ -5,10 +5,9 @@ public class Hello {
 	public static void main(String[] args) {
 		System.out.println("Hello, Java!");
 		/*
-		 ÀÛ¼ºÀÚ : ÀÌ¹éÁø
-		 ÀÛ¼ºÀÏ : 2019-10-26
+		 ì‘ì„±ì : ì´ë°±ì§„
+		 ì‘ì„±ì¼ : 2019.10.26
 		 */
-
 	}
 
 }
